@@ -1,10 +1,11 @@
 print("*********************************")
 print("Bem vindo no jogo de Adivinhação!")
 print("*********************************")
-#testando branch-brq
+
 numero_secreto = 42
 
 chute = int(input("Digite o seu numero: "))
+
 acertou = numero_secreto == chute
 maior = numero_secreto < chute
 menor = numero_secreto > chute
