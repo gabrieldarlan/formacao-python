@@ -1,8 +1,7 @@
-
 print("*********************************")
 print("Bem vindo no jogo de Adivinhação!")
 print("*********************************")
-
+#testando branch-brq
 numero_secreto = 42
 
 chute = int(input("Digite o seu numero: "))
