@@ -1,3 +1,4 @@
 *.vscode
 *.__pycache__/
 *tempCodeRunnerFile.py
+*.python_orientado_objetos/__pycache__/
